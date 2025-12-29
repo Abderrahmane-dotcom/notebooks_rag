@@ -1,5 +1,5 @@
 # README — Overview des notebooks
-
+**Remarque :** Les membres du groupe avec qui j'ai travaillé : Bouchra Loukili, Mariam Raffia, Salma Ouahib
 **Remarque :** Parfois les notebooks ne s'affichent pas correctement dans l'interface de GitHub. Si vous constatez un rendu incorrect, téléchargez le fichier `.ipynb` et ouvrez-le localement avec Jupyter Notebook/JupyterLab ou Google Colab pour visualiser les résultats correctement.
 
 ## Contenu
